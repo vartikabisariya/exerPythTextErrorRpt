@@ -26,6 +26,11 @@
   * File - Open Folder
 * Create a python script called error_report.py
 
+## Extract text files
+
+* Extract the files contained in the text_files.zip.
+* Move them to a folder called `original_files` inside the folder where you intend to complete this assignment.
+
 ## Watch Tutorial
 
 * Follow along with Python tutorial: File objects (28 min): https://www.youtube.com/watch?v=eirjjyP2qcQ&list=PLG9A6ovzPqX6d9uWzx0UYN9pm0zzl5ofA&index=28&t=475s
