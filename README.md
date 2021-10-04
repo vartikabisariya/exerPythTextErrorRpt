@@ -33,7 +33,7 @@
 
 ## Watch Tutorial
 
-* Follow along with Python tutorial: ??? (?? min): link??
+* Follow along with Python tutorial: Python Script to Generate an Error Report from Text Files (38 min): https://youtu.be/Nvyd6eipXfQ
 * When you're done make sure you save your file.
 
 ## Push your updated file to your GitHub repository
